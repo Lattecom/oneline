@@ -1,0 +1,1 @@
+# It is a simple service that converts arbitrary text into one line of text.
